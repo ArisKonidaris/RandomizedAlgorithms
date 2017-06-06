@@ -1,5 +1,5 @@
 #Vissarion Konidaris
-#Randomised Algotithms Course
+#Randomized Algorithms Course
 # 18/3/2017
 
 function [Vector,Compares] = Quicksort(x)
