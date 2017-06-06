@@ -1,5 +1,5 @@
 #Vissarion Konidaris
-#Randomised Algotithms Course
+#Randomized Algorithms Course
 # 18/3/2017
 
 clc;
@@ -349,5 +349,3 @@ if FAIL~=1
   end
   
 end
-
-
