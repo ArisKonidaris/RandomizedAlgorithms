@@ -1,5 +1,5 @@
 #Vissarion Konidaris
-#Randomised Algotithms Course
+#Randomized Algotithms Course
 # 19/3/2017
 
 clc;
