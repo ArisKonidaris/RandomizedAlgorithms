@@ -1,5 +1,5 @@
 #Vissarion Konidaris
-#Randomised Algotithms Course
+#Randomized Algorithms Course
 # 20/5/2017
 
 clc;
@@ -81,21 +81,3 @@ while 1
 end
 
 disp(sprintf('Succeded after %d tries.',tries));
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
